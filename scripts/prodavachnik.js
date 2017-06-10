@@ -17,7 +17,6 @@ function startApp() {
     const kinveyAppKey = "kid_rk";
     const kinveyAppSecret = "736804a668";
 
-
     function showView(viewName) {
         // Hide all views and show the selected view only
         $('main > section').hide();
@@ -78,7 +77,6 @@ function startApp() {
             saveAuthInSession(userInfo);
             showHideMenuLinks();
             listAdverts();
-
         }
     }
 
@@ -114,7 +112,6 @@ function startApp() {
             saveAuthInSession(userInfo);
             showHideMenuLinks();
             listAdverts();
-
         }
     }
 
@@ -167,5 +164,4 @@ function startApp() {
             }
         }
     }
-
 }

@@ -95,7 +95,7 @@
 
     // Loading of adverts
     $.mockjax(function (requestSettings) {
-        if (requestSettings.url==="https://mock.api.com/appdata/kid_rk/adverts" &&
+        if (requestSettings.url === "https://mock.api.com/appdata/kid_rk/adverts" &&
             requestSettings.method === "GET") {
             return {
                 response: function (origSettings) {
