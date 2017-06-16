@@ -237,7 +237,6 @@ function startApp() {
             }
         }
     }
-}
 
     // advertisement/create
     function createAdvert() {
