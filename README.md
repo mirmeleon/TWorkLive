@@ -1,5 +1,6 @@
 # TWorkLive
-live version on our project.
+JavaScript Core Teamwork June 2017
+Contributors:
 mirmeleon -> Деница Радева
 StefanRomanov -> Стефан Романов
 BiserVStoev -> Бисер Стоев
